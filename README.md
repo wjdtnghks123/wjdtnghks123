@@ -27,8 +27,8 @@ Once I've Used✏️
 
 # My repo
 
-    1. KOSS open data project (진행 중)
-       : KOSS 동아리 내 웹 스터디, 서울 공공데이터 공모전 참가
+    1. KOSS open data project - 취소
+       : KOSS 동아리 내 웹 스터디, 서울 공공데이터 공모전 참가 취소 -> 일정 촉박
     2. Back-end study toyproject
        : KOSS 동아리 내 백엔드 스터디 이후 toy-project 실시
     3. Back-end study Suhwan - Node.js, express 사용
